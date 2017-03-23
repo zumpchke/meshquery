@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <data xmlns="http://www.netbeans.org/ns/make-project-private/1">
+        <activeConfTypeElem>1</activeConfTypeElem>
+        <activeConfIndexElem>0</activeConfIndexElem>
+    </data>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/vanush/NetBeansProjects/MeshQuery/ClosestPointQuery.h</file>
+            <file>file:/home/vanush/NetBeansProjects/MeshQuery/ClosestPointQuery.cpp</file>
+            <file>file:/home/vanush/NetBeansProjects/MeshQuery/main.cpp</file>
+            <file>file:/home/vanush/NetBeansProjects/MeshQuery/glm/gtc/quaternion.inl</file>
+            <file>file:/home/vanush/NetBeansProjects/MeshQuery/glm/detail/type_vec.hpp</file>
+            <file>file:/home/vanush/NetBeansProjects/MeshQuery/glm/detail/intrinsic_integer.hpp</file>
+            <file>file:/home/vanush/NetBeansProjects/MeshQuery/KdTree.cpp</file>
+            <file>file:/home/vanush/NetBeansProjects/MeshQuery/KdTree.h</file>
+        </group>
+    </open-files>
+</project-private>
